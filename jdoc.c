@@ -1,3 +1,9 @@
+//Programming Fundamentals coursework using C.
+//The following program needs a file as an input(preferably .java). It reads the whole file, it outputs all the functions/methods name, the authors name and also the 
+//the params and returns of the current method.
+
+// @author G_Lefterov
+
 #include <stdio.h>
 #include <string.h>
 int main(int argc, char** argv) {
