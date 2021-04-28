@@ -1,7 +1,7 @@
 /*
 * @author Georgi Lefterov 40492743
 * Last Modification 29.04.2021
-* That's the Part A from the Programming Fundamentals second coursework. It reads a file, outputs some info in the console and outputs a file with symbol table.
+* That's the Part A from the Programming Fundamentals second coursework. It reads a file, outputs some info to the console and outputs a file that's a symbol table.
 */
 
 
